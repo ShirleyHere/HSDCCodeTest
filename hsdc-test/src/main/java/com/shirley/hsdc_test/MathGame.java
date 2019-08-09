@@ -16,16 +16,21 @@ public class MathGame {
 	
 	public String caculate_2(int i){
 		String s = String.valueOf(i);
+		String returnS = "";
 		
-        if((i % 3 == 0 && i % 5 == 0) || (s.contains("3") && s.contains("5")) ){
-            return "FizzBuzz";
-        }else if(i % 3 == 0 || s.contains("3")){
-            return "Fizz";
-        }else if(i % 5 == 0 || s.contains("5")){
-            return "Buzz";
-        }else{
-        	return "" + i;
-        }
+		if(i % 3 == 0 || s.contains("3")){
+			returnS += "Fizz";
+		}
+		
+		if(i % 5 == 0 || s.contains("5")){
+			returnS += "Buzz";
+		}
+		
+		if("".equals(returnS)){
+			return s;
+		}else{
+			return returnS;
+		}
 
 	}
 	
