@@ -1,0 +1,49 @@
+command+F3 来显示桌面以外，我们还可以通过 Fn+F11 键来显示桌面。
+
+Command-Shift-3：截取全部屏幕
+Command-Shift-Control-3：截取全部屏幕到剪贴板
+Command-Shift-4：截取所选屏幕区域到桌面，或按空格键仅捕捉一个窗口
+Command-Shift-Control-4：截取所选屏幕区域到剪贴板，或按空格键仅捕捉一个窗口
+
+Command-H：隐藏（Hide）当前正在运行的应用程序窗口
+Command-Option-H：隐藏（Hide）其他应用程序窗口
+Command-Q：退出（Quit）最前面的应用程序
+Command-Shift-Z：重做，也就是撤销的逆向操作
+Command-Tab：在打开的应用程序列表中转到下一个最近使用的应用程序，相当于Windows中（Alt+Tab）
+Command-Option-esc：打开“强制退出”窗口，如果有应用程序无响应，可在窗口列表中选择强制退出
+ 
+Command-Shift-N：新建文件夹（New）
+Command-Shift-G：调出窗口，可输入绝对路径直达文件夹（Go）
+Command-O：打开所选项。在Mac里打开文件不像Windows里直接按Enter
+Command-Option-V：作用相当于Windows里的文件剪切。在其它位置上对文件复制（Command-C），在目的位置按下这个快捷键，文件将被剪切到此位置
+Command-上箭头：打开包含当前文件夹的文件夹，相当于Windows里的“向上”
+Command-Delete：将文件移至废纸篓
+Command-Shift-Delete：清倒废纸篓
+
+Command-Tab：转向下一个标签页
+Command-Shift-Tab：转向上一个标签页
+Command-加号或等号：放大页面
+Command-减号：缩小页面
+Command-L：光标直接跳至地址栏
+
+RETURN：重命名文件
+空格键：快速查看选中的文件，也就是预览功能
+
+
+emoji表情卖萌 ：control + command + space
+新建txt文件： 打开terminal， cd /Users/Shirley/Desktop, sudo vi filename.txt, :wq
+
+打开Launchpad ： F4
+
+打开spotlight ：command+空格
+
+英文忘记拼写： 写开头 Fn + F5
+
+option—command-c ：复制文件路径
+
+Finder下command-shift-g ：输入文件路径
+
+ls -la ：显示隐藏文件
+
+command+shift+.  切换隐藏不隐藏文件
+ 
